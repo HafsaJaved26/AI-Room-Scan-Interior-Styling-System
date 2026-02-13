@@ -1,0 +1,29 @@
+{
+    "frame_001": {
+        "image_size": {
+            "width": 256,
+            "height": 256
+        },
+        "floor_region": "lower_half",
+        "wall_region": "upper_half",
+        "depth_description": "brighter = closer, darker = farther"
+    },
+    "frame_002": {
+        "image_size": {
+            "width": 256,
+            "height": 256
+        },
+        "floor_region": "lower_half",
+        "wall_region": "upper_half",
+        "depth_description": "brighter = closer, darker = farther"
+    },
+    "frame_003": {
+        "image_size": {
+            "width": 256,
+            "height": 256
+        },
+        "floor_region": "lower_half",
+        "wall_region": "upper_half",
+        "depth_description": "brighter = closer, darker = farther"
+    }
+}
