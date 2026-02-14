@@ -1,0 +1,68 @@
+{
+  "frame_001.jpg": [
+    {
+      "class": "bed",
+      "bbox": [
+        163,
+        261,
+        229,
+        80
+      ],
+      "confidence": 0.639
+    },
+    {
+      "class": "bed",
+      "bbox": [
+        4,
+        250,
+        496,
+        248
+      ],
+      "confidence": 0.256
+    }
+  ],
+  "frame_002.jpg": [
+    {
+      "class": "couch",
+      "bbox": [
+        25,
+        317,
+        108,
+        187
+      ],
+      "confidence": 0.794
+    },
+    {
+      "class": "bed",
+      "bbox": [
+        224,
+        273,
+        252,
+        111
+      ],
+      "confidence": 0.683
+    },
+    {
+      "class": "couch",
+      "bbox": [
+        225,
+        273,
+        251,
+        111
+      ],
+      "confidence": 0.434
+    }
+  ],
+  "frame_003.jpg": [
+    {
+      "class": "bed",
+      "bbox": [
+        115,
+        257,
+        307,
+        227
+      ],
+      "confidence": 0.528
+    }
+  ]
+}
