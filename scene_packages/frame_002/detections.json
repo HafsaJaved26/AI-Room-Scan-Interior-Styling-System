@@ -1,0 +1,32 @@
+[
+    {
+        "class": "couch",
+        "bbox": [
+            25,
+            317,
+            108,
+            187
+        ],
+        "confidence": 0.794
+    },
+    {
+        "class": "bed",
+        "bbox": [
+            224,
+            273,
+            252,
+            111
+        ],
+        "confidence": 0.683
+    },
+    {
+        "class": "couch",
+        "bbox": [
+            225,
+            273,
+            251,
+            111
+        ],
+        "confidence": 0.434
+    }
+]

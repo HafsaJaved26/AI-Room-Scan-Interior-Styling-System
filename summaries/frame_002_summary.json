@@ -1,0 +1,14 @@
+{
+    "frame": "frame_002",
+    "brightness_value": 117.34629440307617,
+    "brightness_level": "Medium",
+    "average_depth": 94.63676452636719,
+    "room_size": "Medium",
+    "object_count": 3,
+    "objects_detected": [
+        "couch",
+        "bed",
+        "couch"
+    ],
+    "room_type": "Bedroom"
+}
