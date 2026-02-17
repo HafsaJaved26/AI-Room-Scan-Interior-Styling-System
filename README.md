@@ -1,6 +1,6 @@
 
-# Module 4 – Scene Integration & Understanding
-Member: Ghazal Hafeez
+# Module 2 – Scene Integration & Understanding
+Member 4: Ghazal Hafeez
 
 ## Overview
 This module integrates outputs from:
