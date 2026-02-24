@@ -1,4 +1,4 @@
-# AI-Powered Interior Room Redesign Pipeline
+# AI Room Scan & Interior Styling System
 
 This project automates the process of redesigning room interiors using generative AI. It preserves the original structure of the room while applying modern aesthetic styles like **Scandinavian Minimalist** and **Modern Luxury**.
 
