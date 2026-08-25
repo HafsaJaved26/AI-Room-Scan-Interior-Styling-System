@@ -15,7 +15,7 @@ This project automates the process of redesigning room interiors using generativ
 - **Scheduler:** UniPCMultistepScheduler
 
 ##  Project Structure
-- `depth_maps/`: Input structural frames (Member 1).
-- `object_masks/`: Segmented masks for furniture placement (Member 3).
-- `redesigned_images/`: Final AI-generated high-resolution images (Member 8).
-- `final_outputs/`: Professional showcase video (Member 9).
+- `depth_maps/`: Input structural frames 
+- `object_masks/`: Segmented masks for furniture placement
+- `redesigned_images/`: Final AI-generated high-resolution images 
+- `final_outputs/`: Professional showcase video 
